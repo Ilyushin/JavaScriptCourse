@@ -1,0 +1,21 @@
+{
+  "name": "tweets_analysis",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "'twitter'",
+    "'tweets'",
+    "'analysis'"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "install": "^0.8.7",
+    "line-by-line": "^0.1.5",
+    "npm": "^4.4.4"
+  }
+}
